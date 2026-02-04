@@ -1,23 +1,23 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  🦆 DUCKY PAYLOADS  ·  USB Rubber Ducky BadUSB Scripts        ║
-╚═══════════════════════════════════════════════════════════════╝
+██████╗ ██╗   ██╗ ██████╗██╗  ██╗██╗   ██╗    ██████╗  █████╗ ██╗   ██╗██╗      ██████╗  █████╗ ██████╗ ███████╗
+██╔══██╗██║   ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝    ██╔══██╗██╔══██╗╚██╗ ██╔╝██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝
+██║  ██║██║   ██║██║     █████╔╝  ╚████╔╝     ██████╔╝███████║ ╚████╔╝ ██║     ██║   ██║███████║██║  ██║███████╗
+██║  ██║██║   ██║██║     ██╔═██╗   ╚██╔╝      ██╔═══╝ ██╔══██║  ╚██╔╝  ██║     ██║   ██║██╔══██║██║  ██║╚════██║
+██████╔╝╚██████╔╝╚██████╗██║  ██╗   ██║       ██║     ██║  ██║   ██║   ███████╗╚██████╔╝██║  ██║██████╔╝███████║
+╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
+                          [ RUBBER DUCKY BADUSB | bad-antics ]
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
 [![Hak5](https://img.shields.io/badge/Hak5-Ducky-FF6B35?style=for-the-badge)](https://hak5.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Payloads](https://img.shields.io/badge/Payloads-50+-00D26A?style=for-the-badge)](payloads/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**USB Rubber Ducky payloads for security research**
 
 </div>
-
----
-
-## ⚡ Overview
-
-Professional USB Rubber Ducky payloads for authorized security testing. Features 50+ payloads across recon, exfiltration, persistence, and pranks.
 
 ---
 
@@ -37,7 +37,7 @@ Professional USB Rubber Ducky payloads for authorized security testing. Features
 
 ```bash
 git clone https://github.com/bad-antics/nullsec-ducky-payloads.git
-# Copy .txt to Ducky as inject.txt
+# Copy .txt payload to Ducky as inject.txt
 ```
 
 ---
@@ -48,7 +48,7 @@ git clone https://github.com/bad-antics/nullsec-ducky-payloads.git
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Related
 
 | Project | Description |
 |---------|-------------|
@@ -60,6 +60,6 @@ git clone https://github.com/bad-antics/nullsec-ducky-payloads.git
 
 <div align="center">
 
-**[GitHub](https://github.com/bad-antics)** • **[NullSec](https://github.com/bad-antics/nullsec)**
+**[GitHub](https://github.com/bad-antics)** · **[NullSec](https://github.com/bad-antics/nullsec)**
 
 </div>
